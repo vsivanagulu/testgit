@@ -1,0 +1,4 @@
+how to compile c files
+
+	vim hello.c
+	gcc hello.c -o hello
